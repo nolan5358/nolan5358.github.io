@@ -1,0 +1,19 @@
+body {
+    background-color: lavender;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    color:cornsilk;
+    text-align: center;
+}
+.assign{
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
+ 
