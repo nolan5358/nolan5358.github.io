@@ -13,6 +13,10 @@ a{
     color: black;
 }
 
+a.hover{
+    color: White;
+}
+
 .assign{
     background-color: #8C501B;
     margin: 10px;
@@ -22,6 +26,13 @@ a{
 
 .assign img{
     width: 200px;
-    padding: 10px;
+    margin: 10px;
+    border: 2px solid #59514C;
+}
+
+.assign img:hover{
+    width: 200px;
+    margin: 10px;
+    border: 2px solid White;
 }
  
