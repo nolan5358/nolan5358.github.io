@@ -2,16 +2,24 @@ body{
     background-color: #402B18;
     font-family:'Times New Roman', Times, serif;
 }
+
 h1{
     color: #BF8339;
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .assign{
     background-color: #8C501B;
     margin: 10px;
     padding: 10px;
     display: flex;
 }
+
 .assign img{
     width: 200px;
     padding: 10px;
