@@ -1,13 +1,13 @@
 body{
-    background-color: brown;
+    background-color: #402B18;
     font-family:'Times New Roman', Times, serif;
 }
 h1{
-    color: white;
+    color: #BF8339;
     text-align: center;
 }
 .assign{
-    background-color: black;
+    background-color: #8C501B;
     margin: 10px;
     padding: 10px;
     display: flex;
