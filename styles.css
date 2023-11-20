@@ -22,7 +22,7 @@ a.hover{
     background-color: #8C501B;
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 15px;
     width: 20%;
 }
