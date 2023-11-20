@@ -24,6 +24,7 @@ a.hover{
     padding: 10px;
     display: flex;
     border-radius: 15px;
+    width: 20%;
 }
 
 .assign img{
