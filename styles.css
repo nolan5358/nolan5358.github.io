@@ -8,6 +8,8 @@ body{
 h1{
     color: #BF8339;
     text-align: center;
+    width: 100%;
+    display: block;
 }
 
 a{
